@@ -8,7 +8,7 @@ float: bottom;
 .media_icon li{
     position:absolute;
     bottom:0;
-    float: bottom;
+    float: right;
     display: inline;
     padding: 5px;
     margin: 2px;
