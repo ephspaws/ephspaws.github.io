@@ -1,38 +1,5 @@
 #social-icons {
 position: relative;
 bottom: 1;
- 
-}
-.social-media-icons {
-display:table
-}
-.social-media-icons ul {
-text-align:right;
-padding:5px 5px 0 0
-list-style-image:none;
-list-style-position:outside;
-list-style-type:none;
-}
-.social-media-icons ul {
-margin-bottom: 1;
-padding:0;
-float:right;
-}
-.social-media-icons li.media_icon {
-margin-left:6px;
-padding-left:0 !important;
-background:none !important;
-display:inline;
-float:left;
-}
-.social-media-icons li:hover {
--moz-transform: rotate(360deg);
--webkit-transform: rotate(360deg);
--o-transform: rotate(360deg);
-transform: rotate(-360deg);
--moz-transition: all 0.5s ease-in-out;
--webkit-transition: all 0.5s ease-in-out;
--o-transition: all 0.5s ease-in-out;
--ms-transition: all 0.5s ease-in-out;
-transition: all 0.5s ease-in-out;
+text-align: right;
 }
