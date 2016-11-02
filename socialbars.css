@@ -1,5 +1,11 @@
 #social-icons {
 position: relative;
-bottom: 1;
-text-align: right;
+}
+
+
+
+.media_icon {
+    position:absolute;
+    bottom:0;
+    right:0;
 }
