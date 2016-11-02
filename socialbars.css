@@ -5,10 +5,10 @@ float: bottom;
 
 
 
-.media_icon a{
+.media_icon li{
     position:absolute;
     bottom:0;
     right:0;
-    padding: 3px;
-    margin: 2px;
+    padding: 7px;
+    margin: 7px;
 }
