@@ -1,6 +1,6 @@
 #social-icons {
 position: relative;
-float: bottom;
+bottom:0;
 }
 
 
@@ -8,7 +8,7 @@ float: bottom;
 .media_icon li{
     position:absolute;
     bottom:0;
-    float: left;
+    float: right;
     display: inline;
     padding: 5px;
     margin: 2px;
