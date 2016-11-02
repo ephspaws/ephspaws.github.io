@@ -1,5 +1,6 @@
 #social-icons {
 position: relative;
+bottom:0;
 }
 
 
@@ -8,4 +9,6 @@ position: relative;
     position:absolute;
     bottom:0;
     right:0;
+    padding: 3px;
+    margin: 2px;
 }
