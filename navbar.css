@@ -25,4 +25,5 @@ li a:hover {
 
 .active {
  background-color: #0a0a0a;   
+ padding: -5;
 }
