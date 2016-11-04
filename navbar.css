@@ -32,3 +32,11 @@ li a:hover {
 .names {
     display: inline;
 }
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
