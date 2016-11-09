@@ -9,3 +9,8 @@ background: transparent;
 .left {
 float: left;
 }
+
+ul {
+  background: none;
+  font-size: 12px;
+}
