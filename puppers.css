@@ -21,3 +21,7 @@ ul {
   background: none;
   font-size: 12px;
 }
+
+body {
+  font-weight: bold;
+}
